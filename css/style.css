@@ -82,6 +82,9 @@ h6,
     z-index: -1;
     opacity: 0;
 }
+.pb-6 {
+    padding-bottom: 4rem !important; /* Adjust the value as needed */
+}
 
 .btn.btn-primary-gradient,
 .btn.btn-secondary-gradient::after {
